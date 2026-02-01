@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Linkfolio.Email.Infrastructure</RootNamespace>
+    <AssemblyName>Linkfolio.Email.Infrastructure</AssemblyName>
+  </PropertyGroup>
+
+</Project>

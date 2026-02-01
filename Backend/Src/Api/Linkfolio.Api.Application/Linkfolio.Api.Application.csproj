@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>Linkfolio.Api.Application</RootNamespace>
+    <AssemblyName>Linkfolio.Api.Application</AssemblyName>
+  </PropertyGroup>
+
+</Project>
